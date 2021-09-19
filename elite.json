@@ -42,7 +42,7 @@
 		"collections": "colourfull",
     "widget": "Nae Kwgt",
     "icons": "Dove Icons",
-    "wall": "https://i.imgur.com/HdW92Fs.jpg"
+    "wall": "https://i.imgur.com/HdW92Fs.png"
 	},
    {
 		"name": "Ancient Amoled",
@@ -69,7 +69,7 @@
 		"collections": "amoled",
     "widget": "Windows 11 Kwgt",
     "icons": "Windows 11 Kwgt",
-    "wall": "https://imgur.com/buQonOX.jpg"
+    "wall": "https://imgur.com/buQonOX.png"
 	},
    {
 		"name": "Orange Beauty",
@@ -87,7 +87,7 @@
 		"collections": "beauty",
     "widget": "Desaturate Pro Kwgt",
     "icons": "Ghost Icons",
-    "wall": "https://imgur.com/xxCCtWT.jpg"
+    "wall": "https://imgur.com/xxCCtWT.png"
 	},
   {
 		"name": "Hulk Sir",
@@ -123,7 +123,7 @@
 		"collections": "dynamic",
     "widget": "Fiction Reborn Kwgt",
     "icons": "Viola Light Icons",
-    "wall": "https://imgur.com/0RnruJE.jpg"
+    "wall": "https://imgur.com/0RnruJE.png"
 	},
    {
 		"name": "Dope Shapes",
@@ -150,6 +150,6 @@
 		"collections": "minimal,amoled",
     "widget": "Desaturate Pro Kwgt",
     "icons": "Reev Pro Icons",
-    "wall": "https://imgur.com/UEPklPk.jpg"
+    "wall": "https://imgur.com/UEPklPk.png"
 	}
 ]
