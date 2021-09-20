@@ -1,13 +1,22 @@
 [
       {
-		"name": "Amoled Green",
-		"author": "Sarthak Patil",
-		"url": "https://i.imgur.com/i21a0lo.png",
-		"collections": "amoled",
+
+  "author": "Sarthak Patil",
+
+  "url": "https://i.imgur.com/i21a0lo.png",
+
+    "name": "Amoled Green",
+
+  "collections": "amoled",
+
     "widget": "Froster Kwgt",
+
     "icons": "BeeLine Green",
+
     "wall": "https://i.imgur.com/PWtv9i1.jpg"
-	},
+
+ },
+
   {
 		"name": "Red Colours",
 		"author": "Sarthak Patil",
