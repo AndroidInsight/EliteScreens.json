@@ -134,6 +134,15 @@
     "icons": "Viola Light Icons",
     "wall": "https://imgur.com/0RnruJE.png"
 	},
+	 {
+		"name": "Samurai",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/sO587xP.png",
+		"collections": "Dynamic,Superhero",
+    "widget": "Crystal kwgt",
+    "icons": "Reev pro",
+    "wall": "https://i.imgur.com/Sp11kBk.jpg"
+	},
    {
 		"name": "Dope Shapes",
 		"author": "Sarthak Patil",
@@ -160,5 +169,113 @@
     "widget": "Desaturate Pro Kwgt",
     "icons": "Reev Pro Icons",
     "wall": "https://imgur.com/UEPklPk.png"
+	},
+	 {
+		"name": "Flowers Magic",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/ljtttSS.png",
+		"collections": "Minimal,Amoled",
+    "widget": "Sheer kwgt",
+    "icons": "Flora icon pack",
+    "wallpaper": "Wall Fever (save not works you have to download wall from above app)"
+	},
+	 {
+		"name": "Blue Sea",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/sZSskWa.png",
+		"collections": "Minimal",
+    "widget": "Sheer kwgt",
+    "icons": "Dove light icon pack",
+    "wallpaper": "Crimson (save not works you have to download wall from above app)"
+	},
+	 {
+		"name": "Towers",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/MgkCl31.png",
+		"collections": "Minimal",
+    "widget": "Sheer kwgt",
+    "icons": "Vertical icon pack",
+    "wall": "https://i.imgur.com/9q5Msdp.png"
+	},
+	 {
+		"name": "Among Us",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/XsaU6vU.png",
+		"collections": "Games",
+    "widget": "Blended KWGT",
+    "icons": "Lux Free Icon pack",
+    "wallpaper": "Wallsy (save not works you have to download wall from above app)"
+	},
+	 {
+		"name": "Ganpati Bappa",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/tokabo6.png",
+		"collections": "Numorphic",
+    "widget": "Ania Kwgt",
+    "icons": "Ania Kwgt",
+    "wall": "https://i.imgur.com/5PQJ8rX.png"
+	},
+	{
+		"name": "𝙼 𝙸 𝚁 𝙸 𝚉 𝙾 𝙽 ",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/KQRTcAv.png",
+		
+    "widget": "Frost kwgt (Top) , Lhotse kwgt (bottom)",
+    "icons": "Reev dark icon pack ",
+    "wall": "https://i.imgur.com/kcQfgQ4.png"
+	},
+	{
+		"name": "Red Fly",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/xeV6kPN.png",
+		"collection": "Colour Beauty",
+    "widget": "Saturn kwgt",
+    "icons": "Vertical icon pack ",
+    "wall": "https://i.imgur.com/TddGZPz.jpg"
+	},
+	{
+		"name": "Blended",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/XJStQbQ.png",
+		"collection": "Colour Beauty",
+    "widget": "Blended kwgt",
+    "icons": "Beeline Red",
+    "wall": "https://i.imgur.com/5nO25oV.png"
+	},
+	{
+		"name": "Red BatMan",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/uFiQ7ZI.png",
+		"collection": "Superhero",
+    "widget": "Clear kwgt , Radish kwgt",
+    "icons": "Redline",
+    "wallpaper": "Wallrod App"
+	},
+	{
+		"name": "Music",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/CzNpdsn.png",
+		"collection": "Art",
+    "widget": "Crystal kwgt , Feast Kwgt",
+    "icons": "Glow Line",
+    "wall": "https://i.imgur.com/7ph971J.jpg"
+	},
+{
+		"name": "Parrot",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/HPYk54l.png",
+		"collection": "Others",
+    "widget": "𝐁𝐥𝐞𝐧𝐝𝐞𝐝 𝚔𝚠𝚐𝚝",
+    "icons": "Crayon Icons",
+    "wall": "https://i.imgur.com/2v4eWVm.jpg"
+	},
+{
+		"name": "Bright Colours",
+		"author": "Kustom Screen",
+		"url": "https://i.imgur.com/VChZgCO.png",
+		"collection": "Colourfull",
+    "widget": "SHeer 𝚔𝚠𝚐𝚝",
+    "icons": "Reev Pro Icons",
+    "wall": "https://i.imgur.com/6tOeUl8.jpg"
 	}
 ]
